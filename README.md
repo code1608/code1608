@@ -2,12 +2,17 @@
 
 
 
-Desarrrollador Python - Comenzando - 2024
+Desarrrollador Python - Comenzando  2024
 
 ## Tecnologías y Herramientas
 - **Lenguajes**:  Python, JavaScript
 - **Herramientas**: VSCode, Git
 
+
+## Contacto
+- [LinkedIn](https://www.linkedin.com/in/juanperez)
+- [Twitter](https://twitter.com/juanperez)
+- [Email](mailto:juanperez@example.com)
 
 <!--
 **code1608/code1608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
