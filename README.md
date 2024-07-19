@@ -1,14 +1,13 @@
-## ¡Hola! 👋 soy David Ramírez
+# ¡Hola! 👋 Soy David Ramírez
 
 
 
 Desarrrollador Python - Comenzando - 2024
 
-##Tecnologías y Herramientas
+## Tecnologías y Herramientas
 - **Lenguajes**:  Python, JavaScript
 - **Herramientas**: VSCode, Git
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
 <!--
 **code1608/code1608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
