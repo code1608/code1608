@@ -1,4 +1,13 @@
-## Hi there 👋
+## ¡Hola! 👋 soy David Ramírez
+
+
+
+Desarrrollador Python - comenzando
+
+##Tecnologías y Herramientas
+- **Lenguajes**:  Python, JavaScript
+- **Herramientas**: VSCode, Git
+
 
 <!--
 **code1608/code1608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
