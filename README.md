@@ -2,7 +2,7 @@
 
 
 
-## Desarrrollador Python - Comenzando  2024
+## Desarrrollador de software
 
 ## Tecnologías y Herramientas
 - **Lenguajes**:  Python, JavaScript
