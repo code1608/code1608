@@ -1,4 +1,4 @@
-# ¡Hola! 🧑‍💻 mi nombre es David Ramírez
+# ¡Hola! mi nombre es David Ramírez 🧑‍💻
 
 
 
