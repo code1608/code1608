@@ -2,7 +2,8 @@
 
 
 
-## Desarrrollador de software Android
+## Software Developer
+
 
 ## Tecnologías y Herramientas
 - **Lenguajes**:  Python, JavaScript
