@@ -10,8 +10,8 @@
 
 
 ## Contacto
-- [LinkedIn](https://www.linkedin.com/in/juanperez)
-- [Twitter](https://twitter.com/juanperez)
+- [LinkedIn](https://www.linkedin.com/in/david-ramirez-81b81a260/)
+- [Twitter](https://www.linkedin.com/in/david-ramirez-81b81a260/)
 - [Email](mailto:juanperez@example.com)
 
 <!--
