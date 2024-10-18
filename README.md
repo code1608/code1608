@@ -2,7 +2,7 @@
 
 
 
-Desarrrollador Python - Comenzando  2024
+## Desarrrollador Python - Comenzando  2024
 
 ## Tecnologías y Herramientas
 - **Lenguajes**:  Python, JavaScript
