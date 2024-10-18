@@ -2,7 +2,7 @@
 
 
 
-## Desarrrollador de software 
+## Desarrrollador de software Android
 
 ## Tecnologías y Herramientas
 - **Lenguajes**:  Python, JavaScript
